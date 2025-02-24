@@ -1,0 +1,5 @@
+namn = input("Vad heter du?")
+print("Hej", namn, "!")
+print("Vad är din favoritfärg",namn,"?")
+färg = input()
+print("Fy, jag hatar", färg,"!")

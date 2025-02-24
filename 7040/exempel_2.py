@@ -1,0 +1,7 @@
+namn = input("Hej! Vad heter du?")
+print("Hej", namn,"!")
+print("Vad är din favoritmat", namn,"?")
+favoritmat = input()
+print(favoritmat, "är också min favoritmat!")
+pengar = input("Hur mycket pengar har du i fickan?")
+print("shit vad rik du är!")
